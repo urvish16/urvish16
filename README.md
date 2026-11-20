@@ -16,29 +16,17 @@
 - 🤖 Building **LLM-powered automation**, from deployment root-cause analysis to conversational ordering
 - 🍽️ I've run a **homemade Gujarati farsan business for 12 years**, so I build software with the customer in mind
 - 🎓 I teach **Spring Boot & Spring Security** through live-coding sessions
-- 📍 Ahmedabad, India · 7+ years in engineering
+- 📍 Ahmedabad, India · 8+ years in engineering
 
 ---
 
-### 🚀 Featured projects
-
-<!-- When a project repo goes public, turn its name into a link, e.g. **[Deploy Doctor](https://github.com/urvish16/deploy-doctor)** -->
-
-| Project | What it does | Stack |
-|---|---|---|
-| **Deploy Doctor** | Detects failed deployments, gathers logs and related source files, uses an LLM to explain the root cause, and opens a ticket automatically | Python · LLM APIs · Docker · GitHub Actions |
-| **Farsan Order Bot** | WhatsApp ordering for a real food business: bilingual (Gujarati/English) menu, payment links, and an owner dashboard | Spring Boot 3 · Java 21 · PostgreSQL · React · WhatsApp Cloud API · Razorpay |
-| **Virasat Vault** | Multi-tenant digital succession vault for CA firms, with RBAC + ABAC, field-level envelope encryption, Postgres RLS, and an append-only audit log | Spring Boot · Keycloak · AWS KMS · PostgreSQL · Docker |
-
-<details>
-<summary><b>🏗️ Professional highlights (platform work)</b></summary>
-<br>
+### 🏗️ What I've built
 
 - Designed and documented an **OTA firmware update system** for smart-home devices, covering versioning rules, S3 artifact storage, rollout campaigns, and zero-downtime DB migrations
 - Built **attribute-based guest access** with Redis-backed TTL enforcement and an invite-flow API
 - Run the platform's **CI/CD and observability**: Jenkins, Nomad/Consul, Traefik, Grafana, Loki, Tempo, Prometheus
 
-</details>
+<!-- 🚀 Featured project: add your own end-to-end project here once its repo is public -->
 
 ---
 
@@ -76,6 +64,7 @@
 <img src="https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG_&_Agents-FF6F00?style=flat-square" />
 
+---
 
 ### 💬 Ask me about
 
