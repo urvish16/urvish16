@@ -76,16 +76,6 @@
 <img src="https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG_&_Agents-FF6F00?style=flat-square" />
 
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=urvish16&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urvish16&layout=compact&hide_border=true" />
-</p>
-
----
 
 ### 💬 Ask me about
 
